@@ -16,5 +16,5 @@ function transform(arrayInt){
 }
 
 
-const arrayInt = [8,2,5]
+const arrayInt = [8,2,5, -3]
 console.log(transform(arrayInt))
