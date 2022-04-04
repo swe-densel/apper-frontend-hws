@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## About the Homework
 
-This application that takes in text input from a user, and renders the inputs as part of an unordered list (a checklist). When the user clicks on the checklist item (specifically, the <li> element), the item is removed from the UI.
+This application that takes in text input from a user, and renders the inputs as part of an unordered list (a checklist). When the user clicks on the checklist item (specifically, the <'li'> element), the item is removed from the UI.
 
 ## How to run
 
